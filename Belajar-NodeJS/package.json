@@ -1,0 +1,13 @@
+{
+  "name": "belajarweek3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "https.js"
+  },
+  "author": "Muhammad Syahrul Romadhon",
+  "license": "ISC"
+}
